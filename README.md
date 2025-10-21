@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Meflah Yousra
 
-<!--
-**YousraYouli/YousraYouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 5th-year Computer Science student (AI & Data Science)  
+💡 Passionate about Artificial Intelligence, Data Science, and Web Development  
+🌍 Based in Algeria  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+- **Languages:** Python, JavaScript , html ,css
+- **Frameworks:** node js , express js, FastAPI, django  
+- **Tools:** Git, Docker, VS Code, Jupyter  
+- **AI & DS:** Pandas, NumPy, Scikit-learn, TensorFlow , pytorch
+
+---
+
+### 📫 Contact Me
+📧 **Email:** y.meflah@esi-sba.dz 
+
+💼 **LinkedIn:** [linkedin.com/in/yousra-meflah-05a993293/](https://www.linkedin.com/in/yousra-meflah-05a993293/)) 
+
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YousraYouli&theme=synthwave) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousraYouli&layout=compact&theme=synthwave)  
