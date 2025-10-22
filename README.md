@@ -14,7 +14,10 @@
 ### 📫 Contact Me
 📧 **Email:** y.meflah@esi-sba.dz 
 
-💼 **LinkedIn:** [linkedin.com/in/yousra-meflah-05a993293/](https://www.linkedin.com/in/yousra-meflah-05a993293/)) 
+💼 **LinkedIn:** [linkedin.com/in/yousra-meflah-05a993293/](https://www.linkedin.com/in/yousra-meflah-05a993293/)
+
+🌐**Portfolio:** [https://yousrayouli.github.io/MyPortfolio/](https://yousrayouli.github.io/MyPortfolio/)
+
 
 
 
